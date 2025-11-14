@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aashka Sengar
+  # Hi 👋, I'm Vaibhav Sahu
 
 ## 🌟 Medical Recommendation System
 A smart, AI-powered system that recommends personalized medical treatments, diagnoses, and health advice based on symptoms, medical history, and user data.
